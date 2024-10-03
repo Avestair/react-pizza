@@ -1,1 +1,2 @@
-a React pizza store template
+a React pizza store template.
+made with Redux Tool Kit.
